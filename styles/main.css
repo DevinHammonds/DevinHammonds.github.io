@@ -1,0 +1,29 @@
+/*main.css*/
+
+body{
+	background:rgb(252,83,83);
+border-style: groove;
+font-family: bungee outline;
+text-shadow: black;
+}
+
+h1{
+	color: black;
+	text-shadow: black;
+}
+
+ol{
+	font-weight: bold;
+}
+
+a{
+	color: black;
+}
+
+#index{
+	border-style: groove;
+}
+.name{text-align: center
+
+p {color:black;
+}
