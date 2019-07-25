@@ -1,17 +1,40 @@
 /*main.css*/
 
 body{
-	background:rgb(252,83,83);
+	background:lightblue;
 border-style: groove;
-font-family: bungee outline;
 text-shadow: black;
+font-style: bold;
 }
 
 h1{
 	color: black;
 	text-shadow: black;
+	text-align: center;
+	font-family: bungee outline;
 }
 
+h3{text-align: center;
+font-family: bungee outline;
+}
+
+#img-float {
+	float: left;
+	margin: 20px;
+	height: 500px
+}
+
+.p-class {
+	margin: 35px;
+	padding: 25px;
+}
+
+#div-float {
+	overflow: auto;
+	border:solid 5px green;
+	background: purple;
+	margin: 20px;
+}
 ol{
 	font-weight: bold;
 }
@@ -25,5 +48,5 @@ a{
 }
 .name{text-align: center
 
-p {color:black;
+ {color:black;
 }
